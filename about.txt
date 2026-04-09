@@ -1,0 +1,3 @@
+This project is my first Git practice repository.
+It helps me learn version control and GitHub workflow.
+I will use it to practice commits and project updates.
