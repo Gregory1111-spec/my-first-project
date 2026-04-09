@@ -1,0 +1,3 @@
+- Add more project files
+- Improve documentation
+- Learn branching and merging
